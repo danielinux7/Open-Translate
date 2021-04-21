@@ -265,7 +265,7 @@ class TranslateService {
     constructor(http) {
         this.http = http;
         // private translateUrl = 'https://nartlinux.pythonanywhere.com/translate';  // URL to web api
-        this.translateUrl = 'https://nartlinux.pythonanywhere.com/translate'; // URL to web api
+        this.translateUrl = 'https://big-oxygen-281010.uc.r.appspot.com/translate'; // URL to web api
         this.readUrl = 'https://nartlinux.pythonanywhere.com/read'; // URL to web api
         this.starUrl = 'https://nartlinux.pythonanywhere.com/star'; // URL to web api
     }
